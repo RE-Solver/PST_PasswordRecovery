@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParse\bin\Release\PSTParse.dll
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParse\bin\Release\MiscParseUtilities.dll
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParse\obj\Release\PSTParse.csprojAssemblyReference.cache
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParse\obj\Release\PSTParse.csproj.CopyComplete
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParse\obj\Release\PSTParse.dll
