@@ -22,10 +22,12 @@ namespace PST_PasswordRecovery
             
             if (args.Length > 0 && File.Exists(args[0]))
             {
+                Console.WriteLine("PST_PasswordRecovery 0.1 - Twitter @solver_re");
                 Console.WriteLine("File: "+ Path.GetFileName(args[0]));
             }
             else {
                 Console.WriteLine("Trascina il file PST sull'applicazione per tentare il recupero della password.");
+                Console.WriteLine("Drag and drop the PST file over the exe to recover password.");
                 Console.Read();
                 return;
             }
@@ -40,15 +42,15 @@ namespace PST_PasswordRecovery
                 var passwordset = pc.Properties.FirstOrDefault(t => t.Key == 0x67ff);
                 if (passwordset.Key == 0x67ff && !passwordset.Value.Data.SequenceEqual(new byte[] { 0x0, 0x0, 0x0, 0x0 }))
                 {
-                    Console.WriteLine("Password impostata");
+                    Console.WriteLine("Password impostata/Password enabled");
                     Console.WriteLine("Password CRC: " + ByteArrayToString(passwordset.Value.Data));
 
                     var result = (new CRC32_PW()).findReverseAscii(BitConverter.ToUInt32(passwordset.Value.Data, 0));
-                    Console.WriteLine("Password collidente per l'apertura : " + CharArrayToString(result));
+                    Console.WriteLine("Password collidente / Collision Password: " + CharArrayToString(result));
 
                 }
                 else
-                    Console.WriteLine("Password NON impostata");
+                    Console.WriteLine("Password NON impostata / PST with no password set");
 
                 sw.Stop();
 
