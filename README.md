@@ -1,5 +1,5 @@
 # PST_PasswordRecovery
-Pst password recovery tool
+Outlook PST password recovery tool
 
 ## Instructions
 Drag and drop the PST file over the PST_PasswordRecovery.exe and you'll get the password you can use to open the PST on Outlook.
