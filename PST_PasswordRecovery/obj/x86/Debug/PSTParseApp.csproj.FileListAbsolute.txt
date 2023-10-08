@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Debug\PSTParseApp.exe
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Debug\PSTParseApp.pdb
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Debug\PSTParse.dll
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Debug\MiscParseUtilities.dll
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Debug\PSTParse.pdb
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Debug\MiscParseUtilities.pdb
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\obj\x86\Debug\PSTParseApp.csproj.CopyComplete
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\obj\x86\Debug\PSTParseApp.exe
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\obj\x86\Debug\PSTParseApp.pdb
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\obj\x86\Debug\PSTParseApp.csprojAssemblyReference.cache

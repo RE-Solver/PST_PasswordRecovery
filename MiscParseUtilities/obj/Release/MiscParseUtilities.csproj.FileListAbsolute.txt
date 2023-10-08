@@ -1,0 +1,3 @@
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\MiscParseUtilities\bin\Release\MiscParseUtilities.dll
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\MiscParseUtilities\obj\Release\MiscParseUtilities.csprojAssemblyReference.cache
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\MiscParseUtilities\obj\Release\MiscParseUtilities.dll

@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Release\MiscParseUtilities.dll
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Release\PSTParse.dll
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\obj\x86\Release\PSTParseApp.csproj.CopyComplete
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\bin\Release\PST_PasswordRecovery.exe
+C:\Users\PC\Documents\File di Outlook\PST-Parser-master\PSTParseApp\obj\x86\Release\PST_PasswordRecovery.exe
